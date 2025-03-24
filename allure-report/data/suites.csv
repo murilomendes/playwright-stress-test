@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4766","Executa múltiplas instâncias simultâneas","","Mon Mar 24 15:04:50 GMT-03:00 2025","passed","Mon Mar 24 15:04:55 GMT-03:00 2025","","test-sample.spec.js","",""
