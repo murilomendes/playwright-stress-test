@@ -5,9 +5,9 @@ This is a Proof of Concept (PoC) to perform stress testing using Playwright and 
 ## Prerequisites
 
 1. **Install Allure** (if you don't have it installed):
-   ```bash
-   brew install allure
-   ```
+  ```bash
+  brew install allure
+  ```
 2. Verify Allure installation: After installation, ensure that Allure was installed correctly by checking its version:
   ```bash
   allure --version
